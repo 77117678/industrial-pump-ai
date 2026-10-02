@@ -795,7 +795,7 @@ elif menu == "AI诊断":
                 ],
                 capture_output=True,
                 text=True,
-                encoding="gbk",
+                encoding="utf-8",
                 errors="replace"
             )
 
